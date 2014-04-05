@@ -3,7 +3,6 @@
 * _Please_ see the comments in MFRC522.h - they give useful hints and background.
 * Released into the public domain.
 */
-
 #include <Arduino.h>
 #include <MFRC522.h>
 
